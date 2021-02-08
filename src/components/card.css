@@ -1,0 +1,16 @@
+.card {
+  width: 250px;
+  height: 400px;
+  margin: 15px;
+  background-image: linear-gradient(to right bottom, rgb(247, 226, 42), rgb(197, 55, 253));
+  border: 3px solid white;
+  border-radius: 10px;
+  cursor: pointer;
+  line-height: 380px;
+  text-align: center;
+}
+.card:hover{
+  border-color: black;
+  height: 450px;
+  width: 400px;
+}

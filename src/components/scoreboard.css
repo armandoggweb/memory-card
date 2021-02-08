@@ -1,0 +1,8 @@
+ul{
+  list-style: none;
+  background-image: linear-gradient(to top right,  rgb(247, 226, 42), rgb(197, 55, 253));
+  font-size: 2.5rem;
+  color: white;
+  border: 2px solid white;
+  border-radius: 10px;
+}

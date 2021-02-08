@@ -1,0 +1,7 @@
+#root{
+  width: 850px;
+  height: 650px;
+  margin: 0 auto;
+  background-image: linear-gradient(to bottom right, rgb(197, 189, 120), rgb(219, 155, 245));
+  border-radius: 10px;
+}
