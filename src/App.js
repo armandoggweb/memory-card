@@ -18,7 +18,7 @@ const App = () => {
       const selectedUpdated = this !== undefined ? selected.concat(this) : selected
       do {
         newCards = rndCards(maxScore, nCardsRow)
-      } while (newCards.every((card) => selectedUpdated.includes(card.content)))
+      } while (newCards.every((card) => selectedUpdated.includes(card)))
       setCardsId(newCards)
     }
 
