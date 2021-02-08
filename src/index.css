@@ -5,3 +5,10 @@
   background-image: linear-gradient(to bottom right, rgb(197, 189, 120), rgb(219, 155, 245));
   border-radius: 10px;
 }
+
+@media (max-width: 500px){
+  #root{
+    width: 400px;
+    height: 300px;
+  }
+}
