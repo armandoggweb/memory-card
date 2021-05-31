@@ -4,4 +4,4 @@ This application puts your memory to the test. You are presented with multiple i
 
 Project developed on ReactJs for The Odin Project course.
 
-[Play!](https://tsjrw.github.io/memory-card/)
+[Play!](https://armandoggweb.github.io/cv-project/)
